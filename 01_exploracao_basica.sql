@@ -1,0 +1,1 @@
+SELECT * FROM `study-434523.olist_ecommerce.orders` LIMIT 10
