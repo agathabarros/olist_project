@@ -41,5 +41,5 @@ A análise revelou três pontos principais sobre a base de clientes:
 * **Ferramentas:** VS Code, Jupyter Notebook, Streamlit, GitHub
 * **/sql/**: Contém as queries SQL de exploração e da criação do modelo RFM.
 * **`analise_dia_03.ipynb`**: Notebook com a análise exploratória e gráficos estáticos.
-* **`dashboard_rfm.py`**: Script da aplicação interativa Streamlit.
+* **`dash_rfm.py`**: Script da aplicação interativa Streamlit.
 * **`DIARIO_DE_ESTUDOS.md`**: Log pessoal com desafios e aprendizados de cada dia.
